@@ -24,4 +24,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-                        Inspired by Creativity. Created by Remo Faller. (2021)
+                        Inspired by Creativity. Created by Remo Faller. (2022)
